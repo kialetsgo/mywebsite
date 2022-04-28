@@ -9,6 +9,11 @@ h1 {
     border-radius: 10px;
 }
 
+.poster {
+    width: 15vh;
+    height: auto;
+}
+
 .center-it {
     display: flex;
     justify-content: center;
