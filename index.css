@@ -1,0 +1,17 @@
+h1 {
+    font-size: 3em;
+    font-family: monospace;
+    font-weight: bold;
+}
+.thumbnail {
+    width: 30vw;
+    height: auto;
+    border-radius: 10px;
+}
+
+.center-it {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
